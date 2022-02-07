@@ -1,4 +1,4 @@
-# Python-Statistics
+# Python-Statistics - Functions from scratch ( Inbuilt methods also included)
 
 
 ## Lab-2 : T statistics
