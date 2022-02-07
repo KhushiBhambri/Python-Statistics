@@ -8,4 +8,6 @@
 
 ## Lab-3: Anova
 1. One way Anova  (Inbuilt and Scratch)
-2. 2 way Anova     (Inbuilt and Scratch)
+*includes from scratch implementation of one way anova without inbuilt functions
+3. 2 way Anova     (Inbuilt and Scratch)
+*includes from scratch implementation of two way anova without inbuilt functions
