@@ -12,7 +12,7 @@
 3. 2 way Anova     (Inbuilt and Scratch)
 *includes from scratch implementation of two way anova without inbuilt functions
 
-## Lab 4 : [Linear Regression with Gradient Descent](https://github.com/KhushiBhambri/Python-Statistics/tree/main/Lab%202)
+## Lab 4 : [Linear Regression with Gradient Descent](https://github.com/KhushiBhambri/Python-Statistics/tree/main/Lab%204)
 1. Linear Regression model from Scratch
 2. Linear Regression model from Sklearn
 3. Gradient descent - with mean squared error cost function (scratch implementation)
